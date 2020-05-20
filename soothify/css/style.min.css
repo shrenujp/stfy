@@ -88,6 +88,7 @@ input:focus{outline: none;}
 .download-img{width: 50%;}
 .download-links a{border-radius:10px;display:inline-block;}
 /*-- // Newsletter Block // --*/
+.sib-form{display: flex;}
 .newsletter-wrap{text-align: center;max-width: 930px;margin: 0 auto;}
 .newsletter-wrap h2{font-size: 56px;color: #fff;font-weight: 500;}
 .newsletter-wrap p{color: rgba(205, 184, 233, 0.66);font-size: 34px;margin: 0;}
@@ -287,6 +288,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#93396b', end
     .mission-wrap .rate-name{right: 10px;bottom: -60px;font-size: 18px;}
     .tag-wrap > small {font-size: 16px;}
     .tag-wrap > p{font-size: 18px;}
+    .sib-form{flex-wrap: wrap !important;justify-content: center;}
     .newsletter-form{flex-wrap: wrap;justify-content: center;}
     .newsletter-form input[type="text"]{width: 100%;margin-bottom: 2rem;}
     .newsletter-form button{margin: 0;width: auto;padding: 10px 30px;font-size: 16px;}
