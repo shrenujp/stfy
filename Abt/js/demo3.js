@@ -229,7 +229,7 @@ window.onload = function() {
   loader.crossOrigin = "Anonymous";
 
   loader.load(
-    "https://i.imgur.com/jE6swTw.jpg",
+    "https://raw.githubusercontent.com/shrenujp/stfy/master/Abt/img/demo3/galaxyTexture.jpg",
     function(texture) {
       document.body.classList.remove("loading");
       window.tunnel = new Tunnel(texture);
