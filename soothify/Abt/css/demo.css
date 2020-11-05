@@ -184,12 +184,7 @@ a:focus {
 }
 
 /* Demo themes */
-.demo-2 {
-	--background-color: #fff;
-	--text-color: #8389a6;
-	--link-color: #1679d1;
-	--link-hover-color: #6a22ba;
-}
+
 
 .demo-3 {
 	--background-color: #381e6f;
